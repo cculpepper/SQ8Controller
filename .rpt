@@ -1,0 +1,17 @@
+** Drc report for /home/chris/Code/SQ8Controller/SQ8Controller.kicad_pcb **
+** Created on 2016-08-30 18:01:15 **
+
+** Found 3 DRC errors **
+ErrType(7): Via near track
+    @ (170.682 mm,52.718 mm): Track 0.250 mm, net [/LED0] (18) on layer B.Cu, length: 7.150 mm
+    @ (164.750 mm,53.343 mm): Via 0.600 mm net [+3V3] (4) on layers F.Cu/B.Cu
+ErrType(7): Via near track
+    @ (171.900 mm,60.300 mm): Track 0.250 mm, net [/LED0] (18) on layer B.Cu, length: 3.275 mm
+    @ (170.500 mm,59.675 mm): Via 0.600 mm net [+3V3] (4) on layers F.Cu/B.Cu
+ErrType(5): Track near via
+    @ (171.200 mm,54.153 mm): Track 0.500 mm, net [+3V3] (4) on layer B.Cu, length: 2.247 mm
+    @ (170.450 mm,55.980 mm): Via 0.600 mm net [/DIO] (11) on layers F.Cu/B.Cu
+
+** Found 0 unconnected pads **
+
+** End of Report **
